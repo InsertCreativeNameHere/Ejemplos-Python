@@ -32,6 +32,7 @@ https://github.com/InsertCreativeNameHere/Ejemplos-Python/blob/master/Condiciona
 31: Escribir un programa que genere las tablas de multiplicar de un número introducido por el
 teclado.
 https://github.com/InsertCreativeNameHere/Ejemplos-Python/blob/master/Ciclos/31.py
+
 40: Escribir un programa que calcule la suma de los cuadrados de los 100 primeros números
 enteros.
 https://github.com/InsertCreativeNameHere/Ejemplos-Python/blob/master/Ciclos/40.py
@@ -40,6 +41,7 @@ https://github.com/InsertCreativeNameHere/Ejemplos-Python/blob/master/Ciclos/40.
 43: Escribir un programa que llene una lista con los veinte primeros números pares y calcule su
 suma. 
 https://github.com/InsertCreativeNameHere/Ejemplos-Python/blob/master/Colecciones/43.py
+
 45: Escribir un programa que tras asignar números enteros a una lista, determine la posición de
 la lista en la que se encuentra el máximo valor. 
 https://github.com/InsertCreativeNameHere/Ejemplos-Python/blob/master/Colecciones/45.py
@@ -48,6 +50,7 @@ https://github.com/InsertCreativeNameHere/Ejemplos-Python/blob/master/Coleccione
 56: . Escribir un programa que elimine los blancos de una cadena de caracteres. La cadena
 original y la transformada deben almacenarse de forma independiente. 
 https://github.com/InsertCreativeNameHere/Ejemplos-Python/blob/master/Cadena%20de%20caracteres/56.py
+
 61: Escribir un programa que lea una frase introducida desde el teclado y la escriba al revés. 
 https://github.com/InsertCreativeNameHere/Ejemplos-Python/blob/master/Cadena%20de%20caracteres/61.py
 
@@ -55,5 +58,6 @@ https://github.com/InsertCreativeNameHere/Ejemplos-Python/blob/master/Cadena%20d
 77: Escriba un programa que usando recursividad devuelva la cantidad de dígitos que tiene un
 número entero.
 https://github.com/InsertCreativeNameHere/Ejemplos-Python/blob/master/Recursividad/77.py
+
 79: Escribir una función recursiva que halle la suma de los primeros "n" números naturales.
 https://github.com/InsertCreativeNameHere/Ejemplos-Python/blob/master/Recursividad/79.py
